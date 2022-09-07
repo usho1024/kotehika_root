@@ -1,6 +1,6 @@
 [submodule "api"]
   path = api
-  url = https://github.com/usho1024/udemy_demoapp_v2j_api
+  url = https://github.com/usho1024/udemy_demoapp_v2_api
 [submodule "front"]
   path = front
-  url = https://github.com/usho1024/udemy_demoapp_v2j_front
+  url = https://github.com/usho1024/udemy_demoapp_v2_front
